@@ -17,8 +17,14 @@ nav {
     padding: 1rem;
     background-color: #44B78B;
     color: white;
-    font-size: 2.5rem;
+    font-size: 1.5rem;
 }
+
+nav a {
+    text-decoration: none;
+    color: white;
+}
+
 
 main {
     flex-grow: 1;
